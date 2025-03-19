@@ -6,9 +6,9 @@ Project latihan ini saya kerjakan ketika menjadi peserta di Coding Camp powered 
 ## Setup Environment - Python (venv)
 mkdir Flood Prediction Exercise\
 cd Flood Prediction Exercise\
-python -m venv venv_floodpredict
-.\floodpredict\Scripts\Activate
-pip install -r requirements.txt
+python -m venv venv_floodpredict\
+.\floodpredict\Scripts\Activate\
+pip install -r requirements.txt\
 
 ## Kesimpulan Analisis
 Berdasarkan hasil evaluasi model dengan metrik MAE (Mean Absolute Error), MSE (Mean Squared Error), dan R² (Koefisien Determinasi), berikut adalah kesimpulan performa model:
