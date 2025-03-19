@@ -4,8 +4,8 @@
 Project latihan ini saya kerjakan ketika menjadi peserta di Coding Camp powered by DBS Foundation, fokus utama dari latihan ini adalah memahami cara kerja model Regresi Linier cocok untuk pola data yang seperti apa. Sebagai latihan dataset ini juga cukup bersih sehingga tidak terlalu banyak memerlukan proses data cleaning. Data yang saya gunakan berasal dari kaggle dengan link: https://www.kaggle.com/competitions/playground-series-s4e5/data
 
 ## Setup Environment - Python (venv)
-mkdir Flood Prediction Exercise
-cd Flood Prediction Exercise
+mkdir Flood Prediction Exercise\
+cd Flood Prediction Exercise\
 python -m venv venv_floodpredict
 .\floodpredict\Scripts\Activate
 pip install -r requirements.txt
